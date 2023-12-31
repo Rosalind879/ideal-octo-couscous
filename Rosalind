@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "alwaysStrict": true,
+        "noImplicitAny": true,
+        "strictNullChecks": true,
+        "noImplicitThis": true,
+        "strict": true,
+        "strictPropertyInitialization": false,
+        "moduleResolution": "node",
+        "experimentalDecorators": true
+    }
+}
